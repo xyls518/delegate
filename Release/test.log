@@ -1,7 +1,0 @@
-﻿cl : 命令行 warning D9025: 正在重写“/EHs”(用“/EHa”)
-  test.cpp
-  正在生成代码
-  Compiler switch has changed, fall back to full compilation.
-  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  test.vcxproj -> C:\Users\Administrator\source\repos\test\Release\test.exe
